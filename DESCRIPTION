@@ -1,0 +1,13 @@
+Package: jaguaR
+Title: Demostrates that a baby jaguar can make a package
+Version: 0.0.0.9000
+Authors@R: person("Carl", "Schroed", email = "cschroedl@usgs.gov",
+                  role = c("aut", "cre"))
+Description: Although baby jaguar is new to making packages, it can still make a
+    package.
+Depends:
+    R (>= 3.2.0)
+License: file LICENSE
+Imports:
+    ggplot2
+RoxygenNote: 5.0.1
