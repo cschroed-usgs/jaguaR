@@ -5,9 +5,13 @@ Authors@R: person("Carl", "Schroed", email = "cschroedl@usgs.gov",
                   role = c("aut", "cre"))
 Description: Although baby jaguar is new to making packages, it can still make a
     package.
-Depends:
+Depends: 
     R (>= 3.2.0)
 License: file LICENSE
-Imports:
-    ggplot2
+Imports: 
+    ggplot2,
+    roxygen2,
+    devtools,
+    testthat
 RoxygenNote: 5.0.1
+Suggests: testthat
