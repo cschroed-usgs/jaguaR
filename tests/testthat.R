@@ -1,4 +1,4 @@
 library(testthat)
-library(jaguaR)
+library(babyjaguaR)
 
-test_check("jaguaR")
+test_check("babyjaguaR")
