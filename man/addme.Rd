@@ -18,7 +18,7 @@ The sum of \code{x} and \code{y}.
 Add together two numbers.
 }
 \examples{
-add(1, 1)
-add(10, 1)
+addme(1, 1)
+addme(10, 1)
 }
 

@@ -1,4 +1,4 @@
-library(jaguaR)
+library(babyjaguaR)
 context("adding")
 
 test_that('addme adds positive integers correctly', {
