@@ -1,4 +1,4 @@
-Package: jaguaR
+Package: babyjaguaR
 Title: Demostrates that a baby jaguar can make a package
 Version: 0.0.0.9000
 Authors@R: person("Carl", "Schroed", email = "cschroedl@usgs.gov",
