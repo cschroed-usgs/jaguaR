@@ -1,6 +1,6 @@
 Package: babyjaguaR
 Title: Demostrates that a baby jaguar can make a package
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: person("Carl", "Schroed", email = "cschroedl@usgs.gov",
                   role = c("aut", "cre"))
 Description: Although baby jaguar is new to making packages, it can still make a
