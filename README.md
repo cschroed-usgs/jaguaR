@@ -5,3 +5,4 @@ Baby's first R package
 
  Windows: [![Build status](https://ci.appveyor.com/api/projects/status/koygq8qlcjm703yc?svg=true)](https://ci.appveyor.com/project/cschroed-usgs/jaguar)
 
+Some documentation.
