@@ -4,4 +4,4 @@ before_script:
   - curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
   - sudo apt-get install git-lfs=1.1.0
   - git lfs fetch > /dev/null
-  - git lfs checkout
+  - git lfs checkout > /dev/null
